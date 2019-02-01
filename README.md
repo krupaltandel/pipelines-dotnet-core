@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/krupaltandel/dotNET%20Core/_apis/build/status/krupaltandel.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/krupaltandel/dotNET%20Core/_build/latest?definitionId=2&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
